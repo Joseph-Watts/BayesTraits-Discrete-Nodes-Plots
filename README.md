@@ -6,18 +6,18 @@ These are two steps to this process, with two separate R scripts. The first step
 The second step involves reading in the output from [BayesTraits](http://www.evolution.rdg.ac.uk/BayesTraits.html) in [R](http://www.cran.r-project.org/), then using this output and the same consensus tree that you used in step one to create two pdf images representing the ancestral state estimation for each trait. These figures will need to be manually added together and edited. I recommend saving the figures in pdf format or some other vector based format to preserve image quality when rescaling and editing. 
 
 ### Example files
-The example used in this script is based on the “Primates” dataset from BayesTraits. The tree files supplied here have been modified slightly to work with the scripts provided (modifications noted in the tree files). When using the fields supplied in this repository, the figures created should look like Primates_Trait_A.pdf and Primates_Trait_B.pdf.
+The example used in this script is based on the “Primates” dataset from BayesTraits and uses the same settings as the example  used in the [BayesTraits manual](http://www.evolution.rdg.ac.uk/BayesTraitsV3.0.1/Files/BayesTraitsV3.Manual.pdf) (these can be seen in the [Primates_Dep_AddNodes_Run.bat](https://github.com/Joseph-Watts/BayesTraits-Discrete-Nodes-Plots/blob/master/Primates_Dep_AddNodes_Run.bat) file). The tree files supplied here have been modified slightly to work with the scripts provided (modifications noted in the tree files). When using the fields supplied in this repository, the figures created should look like [Primates_Trait_A.pdf](https://github.com/Joseph-Watts/BayesTraits-Discrete-Nodes-Plots/blob/master/Primates_Trait_A.pdf) and [Primates_Trait_B.pdf](https://github.com/Joseph-Watts/BayesTraits-Discrete-Nodes-Plots/blob/master/Primates_Trait_B.pdf).
 
 ### Notes:
 * This script only works for the Discrete Dependent analyses in v3 of [BayesTraits](http://www.evolution.rdg.ac.uk/BayesTraits.html). The node orders and commands are different in earlier versions of BayesTraits. It shouldn’t be too hard for others to modify it to work with older version of BayesTraits or for use in the Discrete Independent or Multistate analyses.
-* This is designed to be run with a sample of trees in BayesTraits, not a single tree. The only time a single tree is used is for the purposes of figure diagrams in R. 
-* By “phylogenetic uncertainty” I mean the proportion of trees in the sample of trees for which that a corresponding node with the same descendants in found on the consensus tree.
+* This is designed to be run with a sample of trees in BayesTraits, not a single tree. The only time a single tree is used here is for the purposes of the consesus tree figure in R. 
+* By “phylogenetic uncertainty” I mean the proportion of trees in the tree sample (typically from the posteriour distribution) that have a node with the same descendants in the consensus tree.
 * If you use this code, please cite the authors of [R](http://www.cran.r-project.org/), [BayesTraits](http://www.evolution.rdg.ac.uk/BayesTraits.html), and [ape](https://cran.r-project.org/web/packages/ape/index.html).
-* I am not a programmer and I know that my code is not elegant or efficient. I appreciate suggested improvements, though it may take some time for me to work through them. If you spot any mistakes please log them as issues on the issues page so that others are aware of them too. 
+* I am not a programmer and I know that my code is not elegant or efficient (e.g. I use too many for loops!). I appreciate suggested improvements, though it may take some time for me to work through them. If you spot any mistakes please log them as issues on the issues page so that others are aware of them too. 
 
 ### Examples of some papers with figures based on this code:
-* [Sheehan, O., Watts, J., Gray, R. D., & Atkinson, Q. D. (2018). Coevolution of landesque capital intensive agriculture and sociopolitical hierarchy. Proceedings of the National Academy of Sciences, 115(14), 3628-3633.](https://doi.org/10.1073/pnas.1714558115)
-* [Watts, J., Sheehan, O., Atkinson, Q. D., Bulbulia, J., & Gray, R. D. (2016). Ritual human sacrifice promoted and sustained the evolution of stratified societies. Nature, 532(7598), 228.](http://dx.doi.org/10.1038/nature17159)
+* Sheehan, O., Watts, J., Gray, R. D., & Atkinson, Q. D. (2018). [Coevolution of landesque capital intensive agriculture and sociopolitical hierarchy](https://doi.org/10.1073/pnas.1714558115). Proceedings of the National Academy of Sciences, 115(14), 3628-3633.
+* Watts, J., Sheehan, O., Atkinson, Q. D., Bulbulia, J., & Gray, R. D. (2016). [Ritual human sacrifice promoted and sustained the evolution of stratified societies](http://dx.doi.org/10.1038/nature17159). Nature, 532(7598), 228.
 
 ### Other GitHub pages worth taking a looking at for BayesTraits and R users:
-* [Sam Passmore’s excdr R package for useful R functions for BayesTraits.](https://github.com/SamPassmore/excdr)
+* Sam Passmore’s [excdr R package](https://github.com/SamPassmore/excdr) for useful R functions for BayesTraits.
