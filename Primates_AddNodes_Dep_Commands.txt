@@ -1,0 +1,123 @@
+3
+2
+PriorAll exp 10
+Stones 100 1000
+AddTag T1	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_brunnescens	Macaca_ochreata	Macaca_tonkeana	Macaca_nemestrina	Cercopithecus_aethiops	Macaca_mulatta	Macaca_fascicularis	Macaca_Arctoides	Macaca_silenus	Macaca_sylvanus	Macaca_cyclopis	Mandrillus_leucophaeus	Mandrillus_sphinx	Cercocebus_torquatus	Papio_cynocephalus	Papio_hamadryas	Papio_anubis	Colobus_guereza	Colobus_polykomos	Colobus_angolensis	Procolobus_badius	Pygathrix_roxellana	Rhinopithecus_avunculus	Rhinopithecus_bieti	Pygathrix_nemaeus	asalis_larvatus	Presbytis_senex	Trachypithecus_vetulus	Trachypithecus_geei	Trachypithecus_pileatus	Semnopithecus_entellus	Trachypithecus_johnii	Presbytis_francoisi	Trachypithecus_francoisi	Presbytis_phayrei	Trachypithecus_cristatus	Trachypithecus_phayrei	Cercopithecus_mona	Cercopithecus_nictitans	Pan_paniscus	Pan_troglodytes	Homo_sapiens	Gorilla_gorilla	Pongo_pygmaeus	Pongo_pygmaeus_abelii	Hylobates_lar	Hylobates_muelleri	Hylobates_agilis	Hylobates_klossii	Hylobates_pileatus	Hylobates_moloch	Hylobates_hoolock	Hylobates_gabriellae	Hylobates_leucogenys	Hylobates_concolor	Hylobates_syndactylus	
+AddNode 1 T1																																																													
+AddTag T2	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_brunnescens	Macaca_ochreata	Macaca_tonkeana	Macaca_nemestrina	Cercopithecus_aethiops	Macaca_mulatta	Macaca_fascicularis	Macaca_Arctoides	Macaca_silenus	Macaca_sylvanus	Macaca_cyclopis	Mandrillus_leucophaeus	Mandrillus_sphinx	Cercocebus_torquatus	Papio_cynocephalus	Papio_hamadryas	Papio_anubis	Colobus_guereza	Colobus_polykomos	Colobus_angolensis	Procolobus_badius	Pygathrix_roxellana	Rhinopithecus_avunculus	Rhinopithecus_bieti	Pygathrix_nemaeus	asalis_larvatus	Presbytis_senex	Trachypithecus_vetulus	Trachypithecus_geei	Trachypithecus_pileatus	Semnopithecus_entellus	Trachypithecus_johnii	Presbytis_francoisi	Trachypithecus_francoisi	Presbytis_phayrei	Trachypithecus_cristatus	Trachypithecus_phayrei	Cercopithecus_mona	Cercopithecus_nictitans																		
+AddNode 2 T2																																																													
+AddTag T3	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_brunnescens	Macaca_ochreata	Macaca_tonkeana	Macaca_nemestrina	Cercopithecus_aethiops	Macaca_mulatta	Macaca_fascicularis	Macaca_Arctoides	Macaca_silenus	Macaca_sylvanus	Macaca_cyclopis	Mandrillus_leucophaeus	Mandrillus_sphinx	Cercocebus_torquatus	Papio_cynocephalus	Papio_hamadryas	Papio_anubis	Cercopithecus_mona	Cercopithecus_nictitans																																						
+AddNode 3 T3																																																													
+AddTag T4	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_brunnescens	Macaca_ochreata	Macaca_tonkeana	Macaca_nemestrina	Macaca_mulatta	Macaca_fascicularis	Macaca_Arctoides	Macaca_silenus	Macaca_sylvanus	Macaca_cyclopis	Mandrillus_leucophaeus	Mandrillus_sphinx	Cercocebus_torquatus	Papio_cynocephalus	Papio_hamadryas	Papio_anubis																																									
+AddNode 4 T4																																																													
+AddTag T5	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_brunnescens	Macaca_ochreata	Macaca_tonkeana	Macaca_nemestrina	Macaca_mulatta	Macaca_fascicularis	Macaca_Arctoides	Macaca_silenus	Macaca_sylvanus	Macaca_cyclopis																																															
+AddNode 5 T5																																																													
+AddTag T6	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_brunnescens	Macaca_ochreata	Macaca_tonkeana	Macaca_nemestrina	Macaca_mulatta	Macaca_fascicularis	Macaca_Arctoides	Macaca_cyclopis																																																	
+AddNode 6 T6																																																													
+AddTag T7	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_brunnescens	Macaca_ochreata	Macaca_tonkeana	Macaca_nemestrina																																																					
+AddNode 7 T7																																																													
+AddTag T8	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_brunnescens	Macaca_tonkeana	Macaca_nemestrina																																																						
+AddNode 8 T8																																																													
+AddTag T9	Macaca_nigra	Macaca_nigriscens	Macaca_hecki	Macaca_maura	Macaca_tonkeana	Macaca_nemestrina																																																							
+AddNode 9 T9																																																													
+AddTag T10	Macaca_nigra	Macaca_nigriscens																																																											
+AddNode 10 T10																																																													
+AddTag T11	Macaca_hecki	Macaca_maura	Macaca_tonkeana	Macaca_nemestrina																																																									
+AddNode 11 T11																																																													
+AddTag T12	Macaca_hecki	Macaca_maura																																																											
+AddNode 12 T12																																																													
+AddTag T13	Macaca_tonkeana	Macaca_nemestrina																																																											
+AddNode 13 T13																																																													
+AddTag T14	Macaca_mulatta	Macaca_fascicularis	Macaca_Arctoides	Macaca_cyclopis																																																									
+AddNode 14 T14																																																													
+AddTag T15	Macaca_mulatta	Macaca_cyclopis																																																											
+AddNode 15 T15																																																													
+AddTag T16	Macaca_fascicularis	Macaca_Arctoides																																																											
+AddNode 16 T16																																																													
+AddTag T17	Macaca_silenus	Macaca_sylvanus																																																											
+AddNode 17 T17																																																													
+AddTag T18	Mandrillus_leucophaeus	Mandrillus_sphinx	Cercocebus_torquatus	Papio_cynocephalus	Papio_hamadryas	Papio_anubis																																																							
+AddNode 18 T18																																																													
+AddTag T19	Mandrillus_leucophaeus	Mandrillus_sphinx	Cercocebus_torquatus																																																										
+AddNode 19 T19																																																													
+AddTag T20	Mandrillus_leucophaeus	Mandrillus_sphinx																																																											
+AddNode 20 T20																																																													
+AddTag T21	Papio_cynocephalus	Papio_hamadryas	Papio_anubis																																																										
+AddNode 21 T21																																																													
+AddTag T22	Papio_cynocephalus	Papio_anubis																																																											
+AddNode 22 T22																																																													
+AddTag T23	Cercopithecus_aethiops	Cercopithecus_mona	Cercopithecus_nictitans																																																										
+AddNode 23 T23																																																													
+AddTag T24	Cercopithecus_aethiops	Cercopithecus_mona																																																											
+AddNode 24 T24																																																													
+AddTag T25	Colobus_guereza	Colobus_polykomos	Colobus_angolensis	Procolobus_badius	Pygathrix_roxellana	Rhinopithecus_avunculus	Rhinopithecus_bieti	Pygathrix_nemaeus	asalis_larvatus	Presbytis_senex	Trachypithecus_vetulus	Trachypithecus_geei	Trachypithecus_pileatus	Semnopithecus_entellus	Trachypithecus_johnii	Presbytis_francoisi	Trachypithecus_francoisi	Presbytis_phayrei	Trachypithecus_cristatus	Trachypithecus_phayrei																																									
+AddNode 25 T25																																																													
+AddTag T26	Colobus_guereza	Colobus_polykomos	Colobus_angolensis	Procolobus_badius																																																									
+AddNode 26 T26																																																													
+AddTag T27	Colobus_guereza	Colobus_polykomos	Colobus_angolensis																																																										
+AddNode 27 T27																																																													
+AddTag T28	Colobus_guereza	Colobus_polykomos																																																											
+AddNode 28 T28																																																													
+AddTag T29	Pygathrix_roxellana	Rhinopithecus_avunculus	Rhinopithecus_bieti	Pygathrix_nemaeus	asalis_larvatus	Presbytis_senex	Trachypithecus_vetulus	Trachypithecus_geei	Trachypithecus_pileatus	Semnopithecus_entellus	Trachypithecus_johnii	Presbytis_francoisi	Trachypithecus_francoisi	Presbytis_phayrei	Trachypithecus_cristatus	Trachypithecus_phayrei																																													
+AddNode 29 T29																																																													
+AddTag T30	Pygathrix_roxellana	Rhinopithecus_avunculus	Rhinopithecus_bieti	Pygathrix_nemaeus	asalis_larvatus	Presbytis_senex	Trachypithecus_vetulus	Trachypithecus_geei	Trachypithecus_pileatus	Semnopithecus_entellus	Trachypithecus_johnii																																																		
+AddNode 30 T30																																																													
+AddTag T31	Pygathrix_roxellana	Rhinopithecus_avunculus	Rhinopithecus_bieti	Pygathrix_nemaeus	asalis_larvatus																																																								
+AddNode 31 T31																																																													
+AddTag T32	Pygathrix_roxellana	Rhinopithecus_avunculus	Rhinopithecus_bieti	asalis_larvatus																																																									
+AddNode 32 T32																																																													
+AddTag T33	Pygathrix_roxellana	Rhinopithecus_avunculus	Rhinopithecus_bieti																																																										
+AddNode 33 T33																																																													
+AddTag T34	Rhinopithecus_avunculus	Rhinopithecus_bieti																																																											
+AddNode 34 T34																																																													
+AddTag T35	Presbytis_senex	Trachypithecus_vetulus	Trachypithecus_geei	Trachypithecus_pileatus	Semnopithecus_entellus	Trachypithecus_johnii																																																							
+AddNode 35 T35																																																													
+AddTag T36	Presbytis_senex	Trachypithecus_vetulus	Semnopithecus_entellus	Trachypithecus_johnii																																																									
+AddNode 36 T36																																																													
+AddTag T37	Presbytis_senex	Trachypithecus_vetulus																																																											
+AddNode 37 T37																																																													
+AddTag T38	Semnopithecus_entellus	Trachypithecus_johnii																																																											
+AddNode 38 T38																																																													
+AddTag T39	Trachypithecus_geei	Trachypithecus_pileatus																																																											
+AddNode 39 T39																																																													
+AddTag T40	Presbytis_francoisi	Trachypithecus_francoisi	Presbytis_phayrei	Trachypithecus_cristatus	Trachypithecus_phayrei																																																								
+AddNode 40 T40																																																													
+AddTag T41	Presbytis_francoisi	Trachypithecus_francoisi	Trachypithecus_cristatus	Trachypithecus_phayrei																																																									
+AddNode 41 T41																																																													
+AddTag T42	Presbytis_francoisi	Trachypithecus_francoisi																																																											
+AddNode 42 T42																																																													
+AddTag T43	Trachypithecus_cristatus	Trachypithecus_phayrei																																																											
+AddNode 43 T43																																																													
+AddTag T44	Pan_paniscus	Pan_troglodytes	Homo_sapiens	Gorilla_gorilla	Pongo_pygmaeus	Pongo_pygmaeus_abelii	Hylobates_lar	Hylobates_muelleri	Hylobates_agilis	Hylobates_klossii	Hylobates_pileatus	Hylobates_moloch	Hylobates_hoolock	Hylobates_gabriellae	Hylobates_leucogenys	Hylobates_concolor	Hylobates_syndactylus																																												
+AddNode 44 T44																																																													
+AddTag T45	Pan_paniscus	Pan_troglodytes	Homo_sapiens	Gorilla_gorilla	Pongo_pygmaeus	Pongo_pygmaeus_abelii																																																							
+AddNode 45 T45																																																													
+AddTag T46	Pan_paniscus	Pan_troglodytes	Homo_sapiens	Gorilla_gorilla																																																									
+AddNode 46 T46																																																													
+AddTag T47	Pan_paniscus	Pan_troglodytes	Homo_sapiens																																																										
+AddNode 47 T47																																																													
+AddTag T48	Pan_paniscus	Pan_troglodytes																																																											
+AddNode 48 T48																																																													
+AddTag T49	Pongo_pygmaeus	Pongo_pygmaeus_abelii																																																											
+AddNode 49 T49																																																													
+AddTag T50	Hylobates_lar	Hylobates_muelleri	Hylobates_agilis	Hylobates_klossii	Hylobates_pileatus	Hylobates_moloch	Hylobates_hoolock	Hylobates_gabriellae	Hylobates_leucogenys	Hylobates_concolor	Hylobates_syndactylus																																																		
+AddNode 50 T50																																																													
+AddTag T51	Hylobates_lar	Hylobates_muelleri	Hylobates_agilis	Hylobates_klossii	Hylobates_pileatus	Hylobates_moloch																																																							
+AddNode 51 T51																																																													
+AddTag T52	Hylobates_lar	Hylobates_muelleri	Hylobates_agilis	Hylobates_klossii	Hylobates_pileatus																																																								
+AddNode 52 T52																																																													
+AddTag T53	Hylobates_muelleri	Hylobates_agilis	Hylobates_klossii	Hylobates_pileatus																																																									
+AddNode 53 T53																																																													
+AddTag T54	Hylobates_muelleri	Hylobates_klossii	Hylobates_pileatus																																																										
+AddNode 54 T54																																																													
+AddTag T55	Hylobates_muelleri	Hylobates_klossii																																																											
+AddNode 55 T55																																																													
+AddTag T56	Hylobates_hoolock	Hylobates_gabriellae	Hylobates_leucogenys	Hylobates_concolor	Hylobates_syndactylus																																																								
+AddNode 56 T56																																																													
+AddTag T57	Hylobates_hoolock	Hylobates_gabriellae	Hylobates_leucogenys	Hylobates_concolor																																																									
+AddNode 57 T57																																																													
+AddTag T58	Hylobates_gabriellae	Hylobates_leucogenys	Hylobates_concolor																																																										
+AddNode 58 T58																																																													
+AddTag T59	Hylobates_gabriellae	Hylobates_leucogenys																																																											
+AddNode 59 T59
+run

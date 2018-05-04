@@ -1,0 +1,1 @@
+BayesTraitsV3.exe Primates_EDIT.trees Primates.txt <Primates_AddNodes_Dep_Commands.txt
